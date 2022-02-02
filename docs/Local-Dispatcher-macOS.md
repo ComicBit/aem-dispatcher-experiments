@@ -11,7 +11,7 @@ These instructions cover setting up a local dispatcher on Apache 2.4, accessible
 To [avoid issues](https://helpx.adobe.com/experience-manager/kt/platform-repository/using/dispatcher-macos-technical-video-setup.html) with using the dispatcher module on the Apache version included with macOS, Install Apache 2.4 with [Homebrew](https://brew.sh/):
 
 
-### If you have an M1 Machine [refer to this documentation](../docs/Local-Dispatcher-macOS-M1.md), additional steps are required for this machines.
+If you have an M1 Machine [refer to this documentation](../docs/Local-Dispatcher-macOS-M1.md), additional steps are required for this machines.
 
     brew install httpd
 
