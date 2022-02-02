@@ -166,5 +166,5 @@ The above `find` command should print similar output to the following, assuming 
 
 ... which indicates that your Dispatcher is working as expected. 🎉
 
-Refer back to the [M1 Session](../docs/Local-Dispatcher-macOS.md#m1) steps if you have an M1 Machine, which requires different steps.
+Refer back to the [M1 Machine](../docs/Local-Dispatcher-macOS.md#M1) steps if you have an M1 Machine, which requires different steps.
 Refer back to the [Getting set up](../README.md#getting-set-up) steps to complete any remaining setup, and then continue on to the Experiments.
